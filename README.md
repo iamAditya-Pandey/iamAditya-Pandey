@@ -1,8 +1,6 @@
 # 💫 Hi 👋, I'm Aditya Pandey
 **💻 CSE Student || MERN Stack Developer**
 
-Email Me 👉 ✉️ **pandeyaditya19012006@gmail.com** For Collaboration/Project. 
-
 - 🔭 **I’m currently working on:** AI WEBSITE Builder(SaaS Platform)
 - 🌱 **I’m currently learning:** Machine Learning and Data Science
 - 👯 **I’m looking to collaborate on:** HireSync-Remote-Technical-Interview-Platform
